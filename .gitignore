@@ -5,6 +5,7 @@ local.properties
 # Archivos de IntelliJ IDEA/Android Studio
 *.iml
 .idea/
+.idea
 .DS_Store
 
 # Archivos de compilación
@@ -15,6 +16,7 @@ local.properties
 
 # Archivos de sistema
 Thumbs.db
+.gitignore
 
 # Archivos de dependencia
 /node_modules/
